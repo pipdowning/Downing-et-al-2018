@@ -4,7 +4,7 @@ Code and data for: Downing PA, Griffin AS, &amp; Cornwallis, CK. 2018. Sex diffe
 
 Number of supplementary items: two
 1. SD_R_Code.R
-2. SD_Table_S1-S4.xlsx
+2. SD_Tables_S1-S4.xlsx
 
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
